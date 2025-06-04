@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22c12820-2a62-4560-8129-ef1373a53519" alt="451094003-d4cf7d50-2d47-447d-8d97-0f3bbad7749f">
+</p>
+
+
 ## Contexte :
 
 Projet mené lors du certificat de spécialisation « Analyste de données massives » du Conservatoire National des Arts et Métiers (Cnam). 
@@ -18,5 +23,3 @@ Le détail des différentes étapes est documenté dans le rapport au format pdf
 ## Aspects techniques : 
 
 Le projet utilise Apache Spark pour le traitement distribué, et utilise des algorithmes de machine learning sur des données textuelles vectorisées.
-
-![image](https://github.com/user-attachments/assets/d4cf7d50-2d47-447d-8d97-0f3bbad7749f)
