@@ -5,7 +5,7 @@
 
 ## Contexte :
 
-Projet mené lors du certificat de spécialisation « Analyste de données massives » du Conservatoire National des Arts et Métiers (Cnam). 
+Projet mené lors du certificat de spécialisation « Analyste de données massives » du Conservatoire National des Arts et Métiers (Cnam) dont le rapport est situé à [cette adresse](Rapport_projet_Analyse_de_sentiments_2024.pdf). 
 
 ## Objectif du projet et démarche :
 
@@ -18,8 +18,6 @@ Je me suis donc orienté vers la construction d’un prédicteur obtenu par appr
 * Création du plusieurs prédicteurs et choix du plus performant ;
 * Conclusion et réflexions sur des pistes d’amélioration.
 
-Le détail des différentes étapes est documenté dans le rapport au format pdf du projet qui est située à la racine de ce repository tandis que le code est disponible dans le notebook dédié.
-
 ## Aspects techniques : 
 
-Le projet utilise Apache Spark pour le traitement distribué, et utilise des algorithmes de machine learning sur des données textuelles vectorisées.
+Le projet utilise Apache Spark pour le traitement distribué et utilise des algorithmes de machine learning sur des données textuelles vectorisées.
